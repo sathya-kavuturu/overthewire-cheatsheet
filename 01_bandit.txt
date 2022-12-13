@@ -24,8 +24,80 @@ level-4
 	password: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 	
 level-5
-	commands:
-	password: 
+	commands: find . -type f -size 1033c -name "[[:print:]]*" ! -executable
+	password: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 
 level-6
+	commands: find . -size 33c -user bandit7 -group bandit6 | grep bandit7, cat ./var/lib/dpkg/info/bandit7.password 
+	password: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+
+level-7
+	commands: 
+	password: 
+
+level-8
+	commands: 
+	password:
+
+level-9
+	commands: 
+	password:
+
+level-10
+	commands: 
+	password:
+
+level-11
+	commands: 
+	password:
+
+level-12
+	commands: 
+	password:
+
+level-13
+	commands: 
+	password:
+
+level-14
+	commands: 
+	password:
+
+level-15
+	commands: 
+	password:
+
+level-16
+	commands: 
+	password:
+
+level-17
+	commands: 
+	password:
+
+level-18
+	commands: 
+	password:
+
+level-19
+	commands: 
+	password:
+
+level-20
+	commands: 
+	password:
+
+level-21
+	commands: 
+	password:
+
+level-22
+	commands: 
+	password:
+
+level-23
+	commands: 
+	password:
+
+
 	
