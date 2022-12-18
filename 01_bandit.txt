@@ -52,8 +52,9 @@ level-11
 	password: JVNBBFSmZwKKOP0XbFXOoW8chDz5yVRv
 
 level-12
-	commands: 
-	password:
+	folder name: /tmp/tmp.q7D61MNTgw
+	commands: xxd -r > bandit, cp , gzip -d , bzip2 -d , mv , tar -xf ,
+	password: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
 level-13
 	commands: 
