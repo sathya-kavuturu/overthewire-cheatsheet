@@ -57,16 +57,16 @@ level-12
 	password: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw
 
 level-13
-	commands: 
-	password:
+	commands: ssh -i sshkey.private bandit14@localhost -p 2220 
+	password: fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 
 level-14
-	commands: 
-	password:
+	commands: nc localhost 30000
+	password: jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 
 level-15
-	commands: 
-	password:
+	commands: openssl s_client -connect localhost:30001
+	password: JQttfApK4SeyHwDlI9SXGR50qclOAil1
 
 level-16
 	commands: 
